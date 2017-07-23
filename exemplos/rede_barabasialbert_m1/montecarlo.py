@@ -3,8 +3,6 @@
 
 import numpy as np
 import networkx as nx
-import time
-
 
 #==============================================
 def cria_rede_barabasi_albert(N=9,m=1):
